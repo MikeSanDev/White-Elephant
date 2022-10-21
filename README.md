@@ -20,6 +20,9 @@ Bootstrap was used along with some css magic.
 
 ![landing (1)](https://user-images.githubusercontent.com/96930354/197130267-28c34910-0cb1-4b5f-abcf-d097b2a0c82f.gif)
 ![loginreg (1)](https://user-images.githubusercontent.com/96930354/197129544-5661a02c-ecad-4098-bcad-3e0e672c2ec9.gif)
-![create](https://user-images.githubusercontent.com/96930354/197129561-8b9c3fe5-e4f9-475b-879c-3a6a9387e25d.gif)
-![edit](https://user-images.githubusercontent.com/96930354/197129565-63d167eb-fb6e-434b-b47b-272af454571f.gif)
-![delete](https://user-images.githubusercontent.com/96930354/197129588-e21e738c-6eb9-4385-b2b2-3a783d6506ab.gif)
+![create (1)](https://user-images.githubusercontent.com/96930354/197133040-a9b2d044-ed13-4491-9462-28a9f6fa37e9.gif)
+![showone](https://user-images.githubusercontent.com/96930354/197133069-a9fcf583-4d05-4c41-9e94-b222cf2a7a0e.gif)
+![created](https://user-images.githubusercontent.com/96930354/197133337-c074cb62-e453-4897-856d-968b0178bae6.gif)
+![edit (1)](https://user-images.githubusercontent.com/96930354/197133726-cb74b7e2-fbc8-40b7-a5fd-e429ad668390.gif)
+![delete (1)](https://user-images.githubusercontent.com/96930354/197133238-35ec23e4-9d31-449f-b818-b24ae73c63f6.gif)
+
