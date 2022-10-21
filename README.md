@@ -18,26 +18,13 @@ Bootstrap was used along with some css magic.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-Landing Page:
-https://user-images.githubusercontent.com/96930354/197128180-391382da-eb9d-406b-8205-fb7e0add3cf8.mov
+![landing](https://user-images.githubusercontent.com/96930354/197129529-ef2ff19e-f479-4f5e-adbc-a779de2a2186.gif)
 
 
-Login/Register:
-https://user-images.githubusercontent.com/96930354/197128361-de205c04-b077-4369-9e91-1c8d7055dde0.mov
+![loginreg (1)](https://user-images.githubusercontent.com/96930354/197129544-5661a02c-ecad-4098-bcad-3e0e672c2ec9.gif)
 
+![create](https://user-images.githubusercontent.com/96930354/197129561-8b9c3fe5-e4f9-475b-879c-3a6a9387e25d.gif)
 
-Dashboard/Create:
-https://user-images.githubusercontent.com/96930354/197128389-bbeb3207-b272-4ac6-9923-b2ec61e8979f.mov
+![edit](https://user-images.githubusercontent.com/96930354/197129565-63d167eb-fb6e-434b-b47b-272af454571f.gif)
 
-
-Edit:
-https://user-images.githubusercontent.com/96930354/197128902-7b783a33-6391-41ca-bd60-ab98614587fe.mov
-
-
-
-Delete:
-https://user-images.githubusercontent.com/96930354/197128913-f1c23839-00ad-4204-83f8-2033d75e432e.mov
-
-
-
+![delete](https://user-images.githubusercontent.com/96930354/197129588-e21e738c-6eb9-4385-b2b2-3a783d6506ab.gif)
