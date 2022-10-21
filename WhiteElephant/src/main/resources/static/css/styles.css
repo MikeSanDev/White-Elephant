@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+
+* {
+font-family: 'Georgia', sans-serif;
+
+}
+ /****************************** Color Palette  **********************************/
+ 
+.beige { background: #FAF7F0;} 
+.lightblue { background: #CDFCF6} 
+.lightpurple { background: #BCCEF8} 
+.purple { background: #98A8F8} 
+
+
+/******************************  Dash-board  **********************************/
+body {margin :0px; 
+font-family: 'Prompt', sans-serif;;
+background: #202731;}
+section {position: relative;
+display:flex;
+flex-direction:column;
+align-items: center;
+padding: 100px 20vw;}
+ 
+
+ .waves {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.waves svg {
+    position: relative;
+    display: block;
+    width: calc(110% + 1.3px);
+    height: 190px;
+}
+
+.waves .shape-fill {
+    fill: #FAF7F0;
+} 
+.wave2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.wave2 svg {
+    position: relative;
+    display: block;
+    width: calc(110% + 1.3px);
+    height: 190px;
+}
+.wave2 .shape-fill {
+    fill: #BCCEF8;
+}
+.spacer { aspect-ratio: 960/200;
+width: 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.section1 {
+padding-top:0px;}
+
+.rules {
+	color:black;
+	text-align: center
+}
+
+footer {position: sticky;
+display:flex;
+flex-direction:column;
+align-items: center;
+padding: 10px 20vw;}
+
+.btns {
+	margin: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  border-radius: 20px;
+  width: 130px;
+  height: 40px;
+  font-weight: bold;
+  border: 2px solid #fffefe;
+  transition: 0.3s;
+  box-shadow: 0px 6px 0px -2px rgba(197, 209, 255, 1);
+  background-color: #98a8f8;
+}
+
+.btns:hover {
+  box-shadow: 0 0 #BCCEF8;
+  transform: translateY(1px);
+}
+

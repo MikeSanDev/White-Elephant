@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+* {margin :0px; 
+padding:0px;
+font-family: 'Georgia', sans-serif;
+
+}
+body {
+margin:0px;
+padding:0px;
+width:100%;}
+
+
+.ban {
+width:100%;
+position: absolute;
+top: 50%;
+left:49%;
+transform: translate(-50%, -50%);
+text-align: center;
+z-index:2;
+margin-top: 70px;}
+
+.ban h1{color:#FAF7F0;
+/*  text-shadow: -1px -1px 0 #BCCEF8, 1px -1px 0 #BCCEF8, -1px 1px 0 #BCCEF8, 1px 1px 0 #BCCEF8;
+ */font-size: 80px;
+font-weight: 300;
+margin-bottom: 30px;
+animation: moveLeft 2s;
+}
+
+.ban p{color :#FAF7F0;
+/*  text-shadow: -1px -1px 0 #BCCEF8, 1px -1px 0 #BCCEF8, -1px 1px 0 #BCCEF8, 1px 1px 0 #BCCEF8;
+ */font-size: 40px;
+margin-bottom:20px;
+animation: moveRight 2s;}
+
+.ban button{
+width: 120px;
+padding:12px;
+margin: 20px;
+border-radius: 20px;
+outline: none;
+letter-spacing: 1px;
+border: 2px solid #fffefe;
+transition: 0.3s;
+font-weight: bold;
+cursor: pointer;}
+
+.btn-left {
+	background-color: #98A8F8;
+	color: #eee;
+	animation-name: animateBtn;
+	animation-duration: 1s;
+	animation-delay: 1.5s;
+	z-index:2;
+	/* this will let buttons be hidden during delay time */
+	animation-fill-mode: backwards;
+}
+.btn-left:hover {
+  box-shadow: 0 0 #ffffff;
+  transform: translateY(1px);
+}
+.btn-right {
+	background-color: transparent;
+	color: #98A8F8;
+		z-index:2;
+	animation-name: animateBtn;
+	animation-duration: 1s;
+	animation-delay: 2.3s;
+	animation-fill-mode: backwards;
+}
+.btn-right:hover {
+  box-shadow: 0 0 #ffffff;
+  transform: translateY(1px);
+}
+/* key frames functions that will let us animate certain objects i.e  animation-name/duration/delay, etc. */
+@keyframes moveLeft {
+	0% {
+		transform: translateX(120px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+@keyframes moveRight {
+	0% {
+		transform: translateX(-120px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+@keyframes animateBtn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+.banner {
+	width:100%;
+
+}
+
+.clouds {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100vh;
+	overflow:hidden; 
+}
+.clouds img{
+	position: absolute;
+
+	max-width:100%;
+	animation: animate calc(8s * var(--i)) linear infinite;
+	
+}
+@keyframes animate
+{
+	0%{
+	transform: translateX(-100%);
+	}
+	100% {
+	transform: translateX(100%);
+	}
+}
