@@ -10,10 +10,10 @@ Bootstrap was used along with some css magic.
 
 ### Built With
 
-* [![Java]
-* [![Spring]
-* [![Bootstrap]
-* [![MySQL]
+* Java
+* Spring Boot
+* Bootstrap
+* MySQL
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
