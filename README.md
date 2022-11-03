@@ -16,6 +16,7 @@ Bootstrap was used along with some css magic.
 * MySQL
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ![landing (1)](https://user-images.githubusercontent.com/96930354/197130267-28c34910-0cb1-4b5f-abcf-d097b2a0c82f.gif)
@@ -26,3 +27,5 @@ Bootstrap was used along with some css magic.
 ![edit (1)](https://user-images.githubusercontent.com/96930354/197133726-cb74b7e2-fbc8-40b7-a5fd-e429ad668390.gif)
 ![delete (1)](https://user-images.githubusercontent.com/96930354/197133238-35ec23e4-9d31-449f-b818-b24ae73c63f6.gif)
 
+<h3> Wireframe: </h3>
+<img width="600" alt="Screen Shot 2022-11-02 at 10 05 19 PM" src="https://user-images.githubusercontent.com/96930354/199640358-35206ec2-a6f4-41ef-a4ff-72439f653383.png">
