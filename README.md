@@ -17,14 +17,19 @@ Bootstrap was used along with some css magic.
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+### Landing Page </br>
 ![landing (1)](https://user-images.githubusercontent.com/96930354/197130267-28c34910-0cb1-4b5f-abcf-d097b2a0c82f.gif)
+### Login/Register </br>
 ![loginreg (1)](https://user-images.githubusercontent.com/96930354/197129544-5661a02c-ecad-4098-bcad-3e0e672c2ec9.gif)
+### Home Page </br>
 ![create (1)](https://user-images.githubusercontent.com/96930354/197133040-a9b2d044-ed13-4491-9462-28a9f6fa37e9.gif)
+### One Card </br>
 ![showone](https://user-images.githubusercontent.com/96930354/197133069-a9fcf583-4d05-4c41-9e94-b222cf2a7a0e.gif)
+### Create Gift </br>
 ![created](https://user-images.githubusercontent.com/96930354/197133337-c074cb62-e453-4897-856d-968b0178bae6.gif)
+### Edit Gift </br>
 ![edit (1)](https://user-images.githubusercontent.com/96930354/197133726-cb74b7e2-fbc8-40b7-a5fd-e429ad668390.gif)
+### Delete Gift </br>
 ![delete (1)](https://user-images.githubusercontent.com/96930354/197133238-35ec23e4-9d31-449f-b818-b24ae73c63f6.gif)
 
 <h3> Wireframe: </h3>
